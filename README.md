@@ -6,5 +6,5 @@ Clone of the Pacman game, implemented with TypeScript
 
 ## Some references
 
-Official site : https://www.pacman.com/
-Offical specifications : https://www.gamedeveloper.com/design/the-pac-man-dossier
+Official site : https://www.pacman.com/  
+Offical specifications : https://www.gamedeveloper.com/design/the-pac-man-dossier  
